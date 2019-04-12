@@ -1,0 +1,30 @@
+/*body{
+    background : linear-gradient(to bottom right, #03A9F4, #f50057 );
+}
+*/
+.one{
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size: 1px;
+}
+
+.btn-large{
+    background : linear-gradient(to bottom right, #03A9F4, #f50057 );
+    font-family:sans-serif;
+    background-position: center;
+    border-radius: 30px;
+    font-weight: bold;
+
+}
+/*.card{
+    font-family:sans-serif;
+    font-size: 30px;
+    border-radius: 30px;
+}*/
+
+.center-align {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
