@@ -1,4 +1,6 @@
-
+body {
+    font-family: 'Roboto', sans-serif;
+}
 .one{
     font-family:sans-serif;
     font-weight: bold;
@@ -6,7 +8,7 @@
 }
 
 .btn-large{
-    background: linear-gradient(to bottom right, rgb(243, 33, 33), rgb(151, 0, 151));
+    background: linear-gradient(to bottom right, rgb(243, 33, 33), rgb(151, 0, 58));
     font-family:sans-serif;
     background-position: center;
     border-radius: 30px;
